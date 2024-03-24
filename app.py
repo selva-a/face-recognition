@@ -7,6 +7,7 @@ import numpy as np
 from sklearn.neighbors import KNeighborsClassifier
 import pandas as pd
 import joblib
+import { Analytics } from "@vercel/analytics/react"
 
 # Defining Flask App
 app = Flask(__name__)
