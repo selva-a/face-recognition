@@ -222,6 +222,4 @@ def add():
     return render_template('home.html', names=names, rolls=rolls, times=times, l=l, totalreg=totalreg(), datetoday2=datetoday2)
 
 
-# Our main function which runs the Flask App
-if __name__ == '__main__':
-    app.run(debug=True)
+
