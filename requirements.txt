@@ -1,6 +1,2 @@
 flask
-opencv-python
-numpy
-scikit-learn
-pandas
-joblib
+
